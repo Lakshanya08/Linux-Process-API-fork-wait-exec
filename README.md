@@ -48,7 +48,7 @@ int main() {
 
 ## OUTPUT:
 
-![catfile](./image2/01-file01.png)
+![catfile](./image2/1-file1.png)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 
